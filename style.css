@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+form {
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border: none;
+}
+input {
+    display: block;
+}
